@@ -1,7 +1,7 @@
 Hi 👋 My name is Sudhan Bhattarai
 =================================
 
-I am a Ph.D. candidate in Industrial Engineering with a focus on stochastic optimization, operations research, and data-driven decision-making. My GitHub showcases a collection of research projects, algorithms, and applications in supply chain logistics, time series modeling, and optimization under uncertainty. I enjoy transforming complex real-world problems into mathematical models and solving them using Python, Gurobi, and machine learning techniques. Feel free to explore my repositories and connect if you'd like to collaborate or discuss ideas!
+I am a Ph.D. candidate in Industrial Engineering with a focus on **stochastic optimization**, **operations research**, and **data-driven decision-making**. My GitHub showcases a collection of research projects, algorithms, and applications in **supply chain logistics**, **time series modeling**, and optimization under uncertainty. I enjoy transforming complex real-world problems into mathematical models and solving them using `Python`, `Gurobi`, and machine learning techniques. Feel free to explore my repositories and connect if you'd like to collaborate or discuss ideas!
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [sudhan.bhattarai26@gmail.com](mailto:sudhan.bhattarai26@gmail.com)
