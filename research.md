@@ -1,6 +1,6 @@
 # Selected Publications
 ---
-## Multistage stochastic programming for integrated networkoptimization in hurricane relief logistics and evacuation planning
+## Multistage stochastic programming for integrated network optimization in hurricane relief logistics and evacuation planning
 
 **Authors:** Sudhan Bhattarai, Yongjia Song
 
@@ -38,7 +38,7 @@ In this paper, we study an integrated hurricane relief logistics and evacuation 
 **DOI:** [10.1080/20479700.2022.2102111](https://doi.org/10.1080/20479700.2022.2102111)
 
 **Abstract:**  
-As demand for home health care (HHC) services surges due to an aging population and public health constraints, HHC companies need to optimize their activities. Increasing costs to deliver care and the need to optimize the capacity of acute care settings such as hospitals, make the planning of HHC services more challenging. To optimally deliver care, the caregivers’ activities must be planned considering conflicting objectives. The proposed multi-objective HHC problem considers three components in the planning process: patients, nurses, and providers. An exact method is presented to efficiently solve a multi-objective HHC routing problem balancing the schedules of the nurses while maximizing quality of service (time windows, continuity, and consistency of care) and provider’s profit. A mixed-integer linear programming (MILP) model is formulated using the ϵ-constraint method and small- and medium-size …
+As demand for home health care (HHC) services surges due to an aging population and public health constraints, HHC companies need to optimize their activities. Increasing costs to deliver care and the need to optimize the capacity of acute care settings such as hospitals, make the planning of HHC services more challenging. To optimally deliver care, the caregivers’ activities must be planned considering conflicting objectives. The proposed multi-objective HHC problem considers three components in the planning process: patients, nurses, and providers. An exact method is presented to efficiently solve a multi-objective HHC routing problem balancing the schedules of the nurses while maximizing quality of service (time windows, continuity, and consistency of care) and provider’s profit. A mixed-integer linear programming (MILP) model is formulated using the ϵ-constraint method and small- and medium-size problems are solved. Computational results on modified benchmark instances from the literature are used to test the method’s efficiency. A Pareto Frontier Analysis is used to evaluate optimality conditions for the provider, and it found that failing to satisfy the preferences of nurses has a larger impact on the provider’s bottom line. Furthermore, it was found that adjusting the patients’ preferences is not as taxing as adjusting the nurses’ preferences.
 
 **Keywords:** Home healthcare, scheduling and routing problems, multi-objective optimization, multiple period planning, patients’ satisfaction, nurses’ satisfaction, consistency and continuity of care
 
