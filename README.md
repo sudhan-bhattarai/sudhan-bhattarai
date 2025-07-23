@@ -1,5 +1,4 @@
-Hi,
-=================================
+---
 
 I am a Ph.D. candidate in Industrial Engineering with a focus on **stochastic optimization**, **operations research**, and **data-driven decision-making**. My GitHub showcases a collection of research projects, algorithms, and applications in **supply chain logistics**, **time series modeling**, and optimization under uncertainty. I enjoy transforming complex real-world problems into mathematical models and solving them using `Python`, `Gurobi`, and `machine learning` techniques. Feel free to explore my repositories and connect if you'd like to collaborate or discuss ideas!
 
@@ -10,6 +9,4 @@ I am a Ph.D. candidate in Industrial Engineering with a focus on **stochastic op
 * 📄 I have shared some of my **research publications** [here](research.md)
 * 📝 My **resume** is located [here](resume.pdf)
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/sudhan-bhattarai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/__sudhan__bh__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/sudhan-bhattarai-07526414a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
