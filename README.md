@@ -7,7 +7,8 @@ I am a Ph.D. candidate in Industrial Engineering with a focus on **stochastic op
 * ✉️  You can contact me at [sudhan.bhattarai26@gmail.com](mailto:sudhan.bhattarai26@gmail.com)
 * 🧠  I'm learning machine learning models such as Transformer architectures to enhance time-series forecasting within optimization frameworks.
 * ⚡  Outside of work, I enjoy watching football (soccer) matches, occasionally playing, socializing with friends, and traveling to new places.
-
+* 📄 I have shared some of my **research publications** [here](research.md)
+* 📝 My **resume** is located [here](resume.pdf)
 
 ### Socials
 
