@@ -4,4 +4,3 @@ Currently, I'm learning machine learning models such as Transformer architecture
 
 * ✉️  You can contact me at [sudhan.bhattarai26@gmail.com](mailto:sudhan.bhattarai26@gmail.com)
 * 📄 I have shared some of my **research publications** [here](research.md)
-* 📝 My **resume** is located [here](resume.pdf)
