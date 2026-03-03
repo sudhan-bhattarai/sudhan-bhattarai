@@ -4,12 +4,9 @@ I am a **researcher in Industrial Engineering**, specializing in **stochastic op
 
 I enjoy translating complex real-world problems into mathematical models and solving them using `Python`, `Gurobi`, and **machine learning** techniques. Explore my repositories and feel free to reach out if you’d like to collaborate or discuss ideas!  
 
-Currently, I am working on:  
+Currently, I am learning:  
 * **Transformer architectures and advanced ML models** to enhance **time-series forecasting** within optimization frameworks.  
 * **Agentic AI tools** for generating **optimization solutions with dynamic forecast updates**, bridging AI planning with stochastic optimization.  
-
-Outside of research, I enjoy **watching football (soccer)**, occasionally playing, socializing with friends, and traveling to new places.
-
 ---
 ### 🛠️ Skills & Tools
 
