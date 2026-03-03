@@ -1,12 +1,14 @@
 # Hi there, I'm Sudhan 👋
 
-I am a **researcher in Industrial Engineering**, specializing in **stochastic optimization**, **operations research**, and **data-driven decision-making**. My GitHub showcases a collection of research projects, algorithms, and applications in **supply chain logistics**, **time series modeling**, and **optimization under uncertainty**.  
+I am a **researcher in Industrial Engineering** with extensive expertise in **end-to-end problem solving**, combining **data science**, **optimization**, and **decision analytics**. My work spans the full pipeline, from **data collection and wrangling**, through **statistical and machine learning modeling**, to **optimization under uncertainty**, **decision analysis**, and **results visualization**, ultimately generating actionable **recommendation frontiers** for complex real-world problems.
 
-I enjoy translating complex real-world problems into mathematical models and solving them using `Python`, `Gurobi`, and **machine learning** techniques. Explore my repositories and feel free to reach out if you’d like to collaborate or discuss ideas!  
+My GitHub highlights a collection of research projects, algorithms, and applications in **supply chain logistics**, **time series modeling**, and **stochastic optimization**. You can also explore my research publications on [Google Scholar](https://scholar.google.com/citations?user=6sD42XkAAAAJ&hl=en&authuser=5).
 
-Currently, I am learning:  
-* **Transformer architectures and advanced ML models** to enhance **time-series forecasting** within optimization frameworks.  
-* **Agentic AI tools** for generating **optimization solutions with dynamic forecast updates**, bridging AI planning with stochastic optimization.  
+I enjoy translating complex challenges into rigorous mathematical and computational frameworks and advanced **machine learning** techniques. Explore my repositories and feel free to connect if you'd like to collaborate or discuss innovative ideas!
+
+Currently, I am learning:
+* **Transformer architectures and advanced ML models** to enhance **time-series forecasting** within optimization frameworks.
+* **Agentic AI tools** for generating **optimization solutions with dynamic forecast updates**, bridging AI planning with stochastic optimization.
 ---
 ### 🛠️ Skills & Tools
 
@@ -55,11 +57,4 @@ Currently, I am learning:
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-6f42c1?style=flat)
 ![Embeddings](https://img.shields.io/badge/-Embeddings-FFB900?style=flat)
 ![Fine-tuning](https://img.shields.io/badge/-Fine--tuning-4CAF50?style=flat)
----
-
-### 📫 Connect with me
-* ✉️ Email: [sudhan.bhattarai26@gmail.com](mailto:sudhan.bhattarai26@gmail.com)  
-* 📄 Research publications: [Google Scholar](https://scholar.google.com/citations?user=6sD42XkAAAAJ&hl=en&authuser=5)
-* 🌐 LinkedIn: [linkedin.com/in/sudhan-bhattarai-07526414a/](https://www.linkedin.com/in/sudhan-bhattarai-07526414a/)
-
 ---
